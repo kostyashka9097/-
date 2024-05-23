@@ -1,0 +1,115 @@
+
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+h1:hover{
+    transform: scale(1.2);
+    transition: all 1s ease-in-out;
+}
+a{
+    text-decoration:none;
+    font-size: 20px;
+    color: blueviolet;
+    margin: 20px;
+}
+.link-header{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+footer{
+    background-color: rgb(116, 255, 255);
+    padding: 30px;
+}
+body{
+    background-color: rgb(212, 166, 255);
+}
+img{
+    margin:100px;
+}
+header{
+    background-image: linear-gradient(violet,aqua);
+    padding: 10px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+.ooo{
+    justify-content: center;
+}
+.link-nav1{
+        display: flex;
+    justify-content: left;
+
+    color: blueviolet;
+    text-decoration: double;
+    padding:10px;
+    background-color: black;
+    border-radius: 5px;
+
+}
+.link-nav2
+{
+    display: flex;
+    justify-content: right;
+    color: aqua;
+    text-decoration: double;
+    padding:10px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.link-nav1:hover{
+    font-size: 30px;
+    transition: all 0.4s ease-in-out;
+
+
+}
+.link-nav2:hover{
+    font-size: 30px;
+    transition: all 0.4s ease-in-out;
+}
+iframe:hover{
+    transform: scale(1.1);
+    transition: all 1s ease-in-out;
+    box-shadow: 0px 10px 50px 5px;
+    margin: 20px;
+}
+.kakish-moi:hover{
+    transform: scale(1.1);
+    transition: all 1s ease-in-out;
+    box-shadow: 0px 10px 50px 5px;
+}
+.spisok{
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 10px;
+}
+div p{
+font-size: 30px;
+text-align: center;
+}
+div p:hover{
+    font-size: 35px;
+    transition: all 0.5s ease-in-out;
+}
+.quetion{
+    opacity: 0;
+    font-size: 30px;
+}
+.quetion:hover{
+    opacity: 1;
+    transition: all 1s ease-in-out;
+}
+a:focus{
+    color: black;
+}
